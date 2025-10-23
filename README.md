@@ -11,7 +11,6 @@ Originally developed through **Zoho CRM**, adaptable to any CRM platform.
 **Results:** Conversion ↑ 80% • Response Time ↓ 40% • CRM Adoption 100%
 
 📄 [View the full framework (PDF)](Integrated_Sales_Enablement_Framework.pdf)
-
 ---
 
 ## 🗂 Additional Work  
